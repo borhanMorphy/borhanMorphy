@@ -5,8 +5,8 @@
 About Me:
 
 - 🔭 I’m currently working on: [FastFace](https://github.com/borhanMorphy/light-face-detection).
-- 🌱 I’m currently learning: Audio Signal Processing with ML and DL, mobile deployment such as [CoreML](https://developer.apple.com/documentation/coreml) and [TFLite](https://www.tensorflow.org/lite).
-- 👯 I’m looking to collaborate on: PyTorch Projects.
+- 🌱 I’m currently reading & implementing: [Object as Points](https://arxiv.org/pdf/1904.07850.pdf) paper.
+- 👯 I’m looking to collaborate on: Computer Vision Projects.
 - 💬 Ask me about: ML, DL, Computer Vision, MLOps, Python. Happy to help anytime.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-borhan-0a318015b/).
 
