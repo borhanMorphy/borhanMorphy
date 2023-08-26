@@ -4,10 +4,8 @@
 
 About Me:
 
-- 🔭 I’m currently working on: [FastFace](https://github.com/borhanMorphy/light-face-detection).
-- 🌱 I’m currently reading & implementing: [Object as Points](https://arxiv.org/pdf/1904.07850.pdf) paper.
-- 👯 I’m looking to collaborate on: Computer Vision Projects.
-- 💬 Ask me about: ML, DL, Computer Vision, MLOps, Python. Happy to help anytime.
+- 🔭 I’m currently working on Document Intelligence and Understanding
+- 🌱 I’m currently reading & implementing: [ETC: Encoding Long and Structured Inputs in Transformers](https://arxiv.org/pdf/2004.08483v5.pdf) paper.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-borhan-0a318015b/).
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=borhanMorphy&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)
@@ -75,14 +73,6 @@ About Me:
     <img
       src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
       alt="pytorch"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      alt="opencv"
       width="40"
       height="40"
     />
