@@ -4,9 +4,9 @@
 
 About Me:
 
-- 🔭 I’m currently working on Document Intelligence and Understanding
-- 🌱 I’m currently reading & implementing: [ETC: Encoding Long and Structured Inputs in Transformers](https://arxiv.org/pdf/2004.08483v5.pdf) paper.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-borhan-0a318015b/).
+A math-loving engineer and sci-fi nerd at heart—especially when it comes to Star Trek.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-borhan-0a318015b/).
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=borhanMorphy&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borhanMorphy&hide=Jupyter%20Notebook&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,10 +37,10 @@ About Me:
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
+      src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg"
+      alt="fastapi"
       width="40"
       height="40"
     />
